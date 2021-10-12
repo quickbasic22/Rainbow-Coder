@@ -1,0 +1,3 @@
+some  text 
+a command
+a sentence
