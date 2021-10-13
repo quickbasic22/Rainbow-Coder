@@ -6,3 +6,8 @@ some  text
 a command
 a sentence
 >>>>>>> d12419dca961653ef6049b4a6de60560dd3e257c
+
+Get-Date
+Get-NetIPAdress -ip 192.68.0.1
+Get-Date
+Get-NetIPAdress -ip 192.68.0.1
