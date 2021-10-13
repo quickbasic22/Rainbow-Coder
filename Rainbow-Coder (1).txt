@@ -1,1 +1,5 @@
+<<<<<<< HEAD
+Hello World
+=======
 some text
+>>>>>>> d12419dca961653ef6049b4a6de60560dd3e257c
