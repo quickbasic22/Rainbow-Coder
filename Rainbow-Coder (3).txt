@@ -6,4 +6,9 @@ some  text
 a command
 a sentence
 
+Get-Date
+Get-NetIPAdress -ip 192.68.0.1
+Get-Date
+Get-NetIPAdress -ip 192.68.0.1
+=======
 
